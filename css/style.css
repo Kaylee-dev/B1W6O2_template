@@ -1,9 +1,24 @@
 body{
 	line-height: 1.7em; font-family: 'Roboto', sans-serif;
-	background-image: url(../images/header_bg.jpg);
+	background: url(../images/header_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 
 }
 
 .page{
 	color: rgba(255, 255, 255, 0.8);
+}
+
+.logo{
+	position: absolute;
+	margin-top: 230px;
+	margin-left: 510px;
+	width: 300px;
+}
+
+.nav{
+	position: fixed;
+	margin-top: 465px;
+	margin-left: 400px;
 }
