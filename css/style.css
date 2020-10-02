@@ -1,0 +1,9 @@
+body{
+	line-height: 1.7em; font-family: 'Roboto', sans-serif;
+	background-image: url(../images/header_bg.jpg);
+
+}
+
+.page{
+	color: rgba(255, 255, 255, 0.8);
+}
