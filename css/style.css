@@ -92,6 +92,7 @@ a{
 	float: right;
 	margin-right: 50px;
 	margin-top: 50px;
+	margin-left: 50px;
 
 }
 
@@ -99,8 +100,18 @@ a{
 	float: right;
 	margin-right: 50px;
 	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
 }
 
 .contact{
 	font-size: 20px;
+
+}
+
+.contactLogo{
+	font-size: 80px;
+	float: left;
+	margin-right: 40px;
+
 }
